@@ -1,2 +1,2 @@
-# 04_BattleTank
-An open-world head to head tank fight
+# BattleTank
+An open-world head-to-head tank fight in UE4
